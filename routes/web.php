@@ -14,10 +14,32 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/baugutachter', function () {
-    return view('landingpage');
-});
+$routes = [
+    'schimmelpilz',
+    'hauskaufberatung',
+    'baubegleitung',
+    'bauschaden',
+    'energieberatung',
+    'immobilienbewertung',
+    'gutachter',
+    'team',
+    'kontakt',
+    'kosten-preise',
+    'research',
+    'show',
+    'impressum',
+    'datenschutzerklaerung',
+    
+];
 
+$domains = [
+    'baugutachter-muenchen.eu' => [
+        'laengengrad' => [10.85, 13.9],
+        'breitengrad' => [47.79, 48.9],
+        'domainort' => 'München',
+    ],
+    
+];
 
 foreach ($domains as $domain => $domainData) {
     Route::domain($domain)->group(function () use ($routes, $domainData) {
