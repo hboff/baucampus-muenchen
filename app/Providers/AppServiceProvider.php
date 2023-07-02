@@ -19,6 +19,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-       //
+        View::share('ortat', Orteat::all()); 
+        View::share('gutachter', Gutachter::all()); 
     }
 }
