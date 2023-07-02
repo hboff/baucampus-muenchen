@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\PagesController;
 use App\Http\Controllers\GutachterController;
 
 use App\Http\Controllers\OrteatController;
