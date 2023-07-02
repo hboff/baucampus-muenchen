@@ -261,7 +261,7 @@ class OrteatController extends Controller
 "), [$breitengrad, $laengengrad, $breitengrad]);
         
       
-        return view('unterseiten.bausachverstaendiger', [
+        return view('landingpage', [
             'nearestCities' => $nearestCities,
             'expert' => $expert,
             'data' => $data,

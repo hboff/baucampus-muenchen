@@ -39,6 +39,20 @@
               <p class="footer-text">info@baucampus.de</p>
             </a>
           </div>
+          <div id="w-node-_4aa0d7f3-2a4a-6a6b-69be-35f8e8412105-e84120df">
+
+          @php
+                $i=0;
+                @endphp        
+   
+    @foreach($data as $cities)
+    @if ($i++ < 16)
+  <a href="/{{$cities->stadt_umlaut}}" class="list-item-footer w-inline-block">Baugutachter {{$cities->stadt}}</a>
+    @else
+    @endif
+    @endforeach
+            
+          </div>
         </div>
       </div>
     </section>
