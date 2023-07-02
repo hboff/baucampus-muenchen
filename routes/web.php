@@ -15,20 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 
 $routes = [
-    'schimmelpilz',
-    'hauskaufberatung',
-    'baubegleitung',
-    'bauschaden',
-    'energieberatung',
-    'immobilienbewertung',
-    'gutachter',
-    'team',
     'kontakt',
-    'kosten-preise',
-    'research',
-    'show',
-    'impressum',
-    'datenschutzerklaerung',
+    'preise',
     
 ];
 
@@ -60,8 +48,7 @@ foreach ($domains as $domain => $domainData) {
             View::share('data', $data);
             return view('index', ['expert' => $expert,'domainort' => $domainData['domainort']]);
         });
-        Route::get('/gutachter/{gutachter}', [GutachterController::class, 'show'], function (Request $request){});
-        Route::get('/{ort}', [OrteatController::class, 'show'], function () use ($domainData) {});
+        
         
 });
 }
