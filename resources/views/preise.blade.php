@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648e29e14fdf34ba5270c1b0" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Preise Var 1</title>
-  <meta content="Découvrez nos offres chez Baucampus Nice - Diagnostiqueurs Immobiliers. Nous proposons des services d&#x27;expertise immobilière professionnelle, y compris des évaluations techniques et des diagnostics énergétiques. Consultez nos offres dès maintenant." name="description">
-  <meta content="Preise Var 1" property="og:title">
-  <meta content="Découvrez nos offres chez Baucampus Nice - Diagnostiqueurs Immobiliers. Nous proposons des services d&#x27;expertise immobilière professionnelle, y compris des évaluations techniques et des diagnostics énergétiques. Consultez nos offres dès maintenant." property="og:description">
-  <meta content="Preise Var 1" property="twitter:title">
-  <meta content="Découvrez nos offres chez Baucampus Nice - Diagnostiqueurs Immobiliers. Nous proposons des services d&#x27;expertise immobilière professionnelle, y compris des évaluations techniques et des diagnostics énergétiques. Consultez nos offres dès maintenant." property="twitter:description">
+  <title>Preise - Baucampus STADT</title>
+  <meta content="Investieren Sie in Qualität und Transparenz. Unsere Preise spiegeln die hohen Standards unserer Leistungen und das Fachwissen unserer Experten wider. Entdecken Sie unsere fairen und marktgerechten Preisstrukturen für alle Phasen Ihres Bauprojekts." name="description">
+  <meta content="Preise - Baucampus STADT" property="og:title">
+  <meta content="Investieren Sie in Qualität und Transparenz. Unsere Preise spiegeln die hohen Standards unserer Leistungen und das Fachwissen unserer Experten wider. Entdecken Sie unsere fairen und marktgerechten Preisstrukturen für alle Phasen Ihres Bauprojekts." property="og:description">
+  <meta content="Preise - Baucampus STADT" property="twitter:title">
+  <meta content="Investieren Sie in Qualität und Transparenz. Unsere Preise spiegeln die hohen Standards unserer Leistungen und das Fachwissen unserer Experten wider. Entdecken Sie unsere fairen und marktgerechten Preisstrukturen für alle Phasen Ihres Bauprojekts." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -52,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -83,40 +83,6 @@
             </div>
           </nav>
         </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
         <a href="https://baucampus.com" target="_blank" class="nav-link w-nav-link">Baucampus</a>
         <a href="preise.html" aria-current="page" class="nav-link w-nav-link w--current">Preise</a>
         <a href="kontakt.html" class="nav-link w-nav-link">Kontakt</a>
@@ -134,11 +100,11 @@
           <div class="brix---text-center-2">
             <div class="brix---mg-bottom-12px">
               <div class="brix---color-neutral-802">
-                <h2 class="brix---heading-h2-size">Bereits in allen unseren Dienstleistungen inklusive!</h2>
+                <h2 class="brix---heading-h2-size">Das zeichnet uns aus!</h2>
               </div>
             </div>
             <div class="brix---color-neutral-801">
-              <p class="brix---paragraph-default-2">Komplett-Service: Alles, was Sie brauchen, bereits inbegriffen!</p>
+              <p class="brix---paragraph-default-2">Unsere Leistungsmerkmale</p>
               <a href="#prices" class="brix---btn-primary-white-full-width w-button">Zu den Preisen</a>
             </div>
           </div>
@@ -152,7 +118,7 @@
           </div>
           <div class="brix---paragraph-default-2">
             <div class="brix---color-neutral-801">
-              <p class="brix---mg-bottom-2">Wir bieten kompetente und fachkundige Baugutachter, die zu Ihrer Immobilie kommen, um eine genaue und umfassende Bewertung durchzuführen.</p>
+              <p class="brix---mg-bottom-2">Wir bieten kompetente und fachkundige Baugutachter, in ihrer Region zur Begutachtung Ihrer Immobilie.<br>‍</p>
             </div>
           </div>
         </div>
@@ -229,7 +195,7 @@
           </div>
         </div>
       </div>
-      <div data-w-id="dab5f85a-c54b-838b-75ec-b2f7b4fad2ef" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" data-current="Baubegleitung" data-easing="ease" data-duration-in="300" data-duration-out="100" class="brix---tabs-pricing-v6 w-tabs">
+      <div data-w-id="dab5f85a-c54b-838b-75ec-b2f7b4fad2ef" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" data-current="Gewerbeimmobilien" data-easing="ease" data-duration-in="300" data-duration-out="100" class="brix---tabs-pricing-v6 w-tabs">
         <div class="brix---tabs-menu-bg-neutral-200 w-tab-menu">
           <a data-w-tab="Bauschaden" class="brix---badge-secondary---tabs w-inline-block w-tab-link">
             <div>Bauschaden</div>
@@ -240,13 +206,13 @@
           <a data-w-tab="Kaufberatung" class="brix---badge-secondary---tabs w-inline-block w-tab-link">
             <div>Kaufberatung</div>
           </a>
-          <a data-w-tab="Baubegleitung" class="brix---badge-secondary---tabs w-inline-block w-tab-link w--current">
+          <a data-w-tab="Baubegleitung" class="brix---badge-secondary---tabs w-inline-block w-tab-link">
             <div>Baubegleitung</div>
           </a>
           <a data-w-tab="Energieberatung" class="brix---badge-secondary---tabs w-inline-block w-tab-link">
             <div class="text-block-6">Energieberatung</div>
           </a>
-          <a data-w-tab="Gewerbeimmobilien" class="brix---badge-secondary---tabs w-inline-block w-tab-link">
+          <a data-w-tab="Gewerbeimmobilien" class="brix---badge-secondary---tabs w-inline-block w-tab-link w--current">
             <div>Gewerbeimmobilien</div>
           </a>
           <a data-w-tab="Haus-Check" class="brix---badge-secondary---tabs w-inline-block w-tab-link">
@@ -291,7 +257,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Strukturelle Bewertung</div>
+                            <div class="brix---text-200-list-bold">Strukturelle <br>Bewertung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -301,12 +267,12 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Reparatur Empfehlungen</div>
+                            <div class="brix---text-200-list-bold">Reparatur <br>Empfehlungen</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Baurechtliche Beratung</div>
+                            <div class="brix---text-200-list-bold">Baurechtliche <br>Beratung</div>
                           </div>
                         </div>
                       </div>
@@ -499,7 +465,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Feuchtigkeitsmessung</div>
+                            <div class="brix---text-200-list-bold">Feuchtigkeits-<br>messung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -514,7 +480,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Analyse der Auswirkungen auf die Raumluftqualität</div>
+                            <div class="brix---text-200-list-bold">Analyse der <br>Auswirkungen <br>auf die <br>Raumluftqualität</div>
                           </div>
                         </div>
                       </div>
@@ -620,7 +586,7 @@
                     </div>
                     <div class="brix---color-neutral-600">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Spezialisierte Untersuchung und Beratung zur Erstellung effektiver Sanierungspläne.<br><br>‍</p>
+                        <p class="brix---mg-bottom-0">Spezialisierte Untersuchung und Beratung zur Erstellung effektiver Sanierungspläne.<br>‍</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -630,12 +596,12 @@
                       <div class="w-layout-grid brix---grid-1-column-gap-row-16px">
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Sanierungsplan</div>
+                            <div class="brix---text-200-list-bold">Vollständiger<br>Sanierungsplan<br>‍</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Beseitigungsstrategie</div>
+                            <div class="brix---text-200-list-bold">Beseitigungs-Strategie<br></div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -650,7 +616,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Beratung für zukünftige Vorbeugung</div>
+                            <div class="brix---text-200-list-bold">Beratung für <br>zukünftige Vorbeugung</div>
                           </div>
                         </div>
                       </div>
@@ -692,7 +658,7 @@
                     </div>
                     <div class="brix---color-neutral-600">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Vor-Ort-Beratung und Inspektion für den Kauf eines Einfamilienhauses oder einer Wohnung bis 200 qm Wohnfläche.<br>‍</p>
+                        <p class="brix---mg-bottom-0">Vor-Ort-Beratung und Inspektion für den Kauf eines Einfamilienhauses oder einer Wohnung bis 200 qm Wohnfläche.<br></p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -707,17 +673,17 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Beratung zur Finanzierung*</div>
+                            <div class="brix---text-200-list-bold">Beratung zur <br>Finanzierung*</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Beratung zu Kaufverträgen*</div>
+                            <div class="brix---text-200-list-bold">Beratung zu <br>Kaufverträgen*</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Verhandlungsunterstützung</div>
+                            <div class="brix---text-200-list-bold">Verhandlungs-Unterstützung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -760,7 +726,7 @@
                     </div>
                     <div class="brix---color-neutral-100">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Schriftliche Dokumentation der Ergebnisse und Empfehlungen der Hauskaufberatung.</p>
+                        <p class="brix---mg-bottom-0">Schriftliche Dokumentation der Ergebnisse und Empfehlungen der Hauskaufberatung.<br>‍</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -770,7 +736,7 @@
                       <div class="w-layout-grid brix---grid-1-column-gap-row-16px">
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
                           <div class="brix---color-neutral-100">
-                            <div class="brix---text-200-list-bold">Immobilienbewertung</div>
+                            <div class="brix---text-200-list-bold">Immobilien-<br>Bewertung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
@@ -881,7 +847,7 @@
               </div>
             </div>
           </div>
-          <div data-w-tab="Baubegleitung" class="w-tab-pane w--tab-active">
+          <div data-w-tab="Baubegleitung" class="w-tab-pane">
             <div class="w-layout-grid brix---3-columns-1-col-tablet">
               <div id="w-node-_49496a9a-5bfe-b0c9-24b4-ca3f3c23be9c-5270c1b0" class="brix---card">
                 <div class="brix---pricing-content-v2">
@@ -900,7 +866,7 @@
                     </div>
                     <div class="brix---color-neutral-600">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Erste Inspektion und Sammlung von Bauunterlagen zur Planung der Baubegleitung.</p>
+                        <p class="brix---mg-bottom-0">Erste Inspektion und Sammlung von Bauunterlagen zur Planung der Baubegleitung.<br>‍</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -920,7 +886,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Analyse der Materialqualität</div>
+                            <div class="brix---text-200-list-bold">Analyse der <br>Materialqualität</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -968,7 +934,7 @@
                     </div>
                     <div class="brix---color-neutral-100">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Regelmäßige Vor-Ort-Inspektionen zur Überwachung des Baufortschritts.</p>
+                        <p class="brix---mg-bottom-0">Regelmäßige Vor-Ort-Inspektionen zur Überwachung des Baufortschritts.<br>‍</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -983,7 +949,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
                           <div class="brix---color-neutral-100">
-                            <div class="brix---text-200-list-bold">Kontrolle des Bauzeitplans</div>
+                            <div class="brix---text-200-list-bold">Kontrolle des <br>Bauzeitplans</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
@@ -993,7 +959,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
                           <div class="brix---color-neutral-100">
-                            <div class="brix---text-200-list-bold">Kontrolle der Arbeiten</div>
+                            <div class="brix---text-200-list-bold">Kontrolle der <br>Arbeiten</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
@@ -1123,12 +1089,12 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Bewertung der Isolierung</div>
+                            <div class="brix---text-200-list-bold">Bewertung der <br>Isolierung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Analyse der Energieverluste</div>
+                            <div class="brix---text-200-list-bold">Analyse der <br>Energieverluste</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -1176,7 +1142,7 @@
                     </div>
                     <div class="brix---color-neutral-100">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Schriftliche Zusammenfassung der Energieberatung, einschließlich aller empfohlenen Maßnahmen.</p>
+                        <p class="brix---mg-bottom-0">Schriftliche Zusammenfassung der Energieberatung, einschließlich aller empfohlenen Maßnahmen.<br>‍</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -1186,7 +1152,7 @@
                       <div class="w-layout-grid brix---grid-1-column-gap-row-16px">
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
                           <div class="brix---color-neutral-100">
-                            <div class="brix---text-200-list-bold">Umsetzungsberatung</div>
+                            <div class="brix---text-200-list-bold">Umsetzungs-<br>Beratung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
@@ -1244,7 +1210,7 @@
                     </div>
                     <div class="brix---color-neutral-600">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Erstellung eines offiziellen Dokuments, das den Energieverbrauch einer Immobilie zeigt.<br>‍</p>
+                        <p class="brix---mg-bottom-0">Erstellung eines offiziellen Dokuments, das den Energieverbrauch einer Immobilie zeigt.</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -1297,7 +1263,7 @@
               </div>
             </div>
           </div>
-          <div data-w-tab="Gewerbeimmobilien" class="w-tab-pane">
+          <div data-w-tab="Gewerbeimmobilien" class="w-tab-pane w--tab-active">
             <div class="w-layout-grid brix---3-columns-1-col-tablet">
               <div class="brix---card">
                 <div class="brix---pricing-content-v2">
@@ -1316,7 +1282,7 @@
                     </div>
                     <div class="brix---color-neutral-600">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Vor-Ort-Inspektion und Beratung im Zusammenhang mit dem Kauf einer Gewerbeimmobilie.<br>‍</p>
+                        <p class="brix---mg-bottom-0">Vor-Ort-Inspektion und Beratung im Zusammenhang mit dem Kauf einer Gewerbeimmobilie.</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -1326,7 +1292,7 @@
                       <div class="w-layout-grid brix---grid-1-column-gap-row-16px">
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Wirtschaftlichkeitsanalyse</div>
+                            <div class="brix---text-200-list-bold">Wirtschaftlichkeits-<br>Analyse</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
@@ -1341,12 +1307,12 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Verhandlungsunterstützung</div>
+                            <div class="brix---text-200-list-bold">Verhandlungs-Unterstützung</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-brix-templates.svg" alt="Check - Elements Webflow Library - BRIX Templates" class="brix---icon-list">
                           <div class="brix---color-neutral-800">
-                            <div class="brix---text-200-list-bold">Analyse der Vermietbarkeit</div>
+                            <div class="brix---text-200-list-bold">Analyse der <br>Vermietbarkeit</div>
                           </div>
                         </div>
                       </div>
@@ -1384,7 +1350,7 @@
                     </div>
                     <div class="brix---color-neutral-100">
                       <div class="brix---paragraph-default">
-                        <p class="brix---mg-bottom-0">Schriftlicher Detailbericht über den Zustand und Wert der Gewerbeimmobilie.<br>‍</p>
+                        <p class="brix---mg-bottom-0">Schriftlicher Detailbericht über den Zustand und Wert der Gewerbeimmobilie.</p>
                       </div>
                     </div>
                     <div class="brix---divider-40px"></div>
@@ -1404,7 +1370,7 @@
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
                           <div class="brix---color-neutral-100">
-                            <div class="brix---text-200-list-bold">Bewertung der Bauqualität</div>
+                            <div class="brix---text-200-list-bold">Bewertung der <br>Bauqualität</div>
                           </div>
                         </div>
                         <div class="brix---icon-list-item-wrapper"><img src="images/check-icon-white-brix-templates.svg" alt="" class="brix---icon-list">
@@ -1445,7 +1411,7 @@
                             <div class="brix---text-200-bold">Fortgeschritten</div>
                           </div>
                           <div class="brix---color-neutral-800">
-                            <div class="brix---display-4">Immobilien-bewertung</div>
+                            <div class="brix---display-4">Immobilienbewertung</div>
                           </div>
                         </div>
                       </div>

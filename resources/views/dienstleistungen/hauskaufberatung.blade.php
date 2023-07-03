@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271c8" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Électriques - Diagnostiqueurs Immobiliers - Baucampus Nice</title>
-  <meta content="Experts en diagnostics électriques. Assurez la sécurité de votre propriété avec nos services de contrôle et d&#x27;évaluation des installations électriques à Nice. Contactez-nous pour un diagnostic précis et fiable." name="description">
-  <meta content="Électriques - Diagnostiqueurs Immobiliers - Baucampus Nice" property="og:title">
-  <meta content="Experts en diagnostics électriques. Assurez la sécurité de votre propriété avec nos services de contrôle et d&#x27;évaluation des installations électriques à Nice. Contactez-nous pour un diagnostic précis et fiable." property="og:description">
-  <meta content="Électriques - Diagnostiqueurs Immobiliers - Baucampus Nice" property="twitter:title">
-  <meta content="Experts en diagnostics électriques. Assurez la sécurité de votre propriété avec nos services de contrôle et d&#x27;évaluation des installations électriques à Nice. Contactez-nous pour un diagnostic précis et fiable." property="twitter:description">
+  <title>Hauskaufberatung - Baucampus STADT</title>
+  <meta content="Mit unserer professionellen Hauskaufberatung in [STADT] treffen Sie die richtige Entscheidung. Wir analysieren den Zustand der Immobilie, bewerten den Preis und beraten Sie umfassend. Baucampus [STADT] - Ihr zuverlässiger Partner beim Immobilienkauf." name="description">
+  <meta content="Hauskaufberatung - Baucampus STADT" property="og:title">
+  <meta content="Mit unserer professionellen Hauskaufberatung in [STADT] treffen Sie die richtige Entscheidung. Wir analysieren den Zustand der Immobilie, bewerten den Preis und beraten Sie umfassend. Baucampus [STADT] - Ihr zuverlässiger Partner beim Immobilienkauf." property="og:description">
+  <meta content="Hauskaufberatung - Baucampus STADT" property="twitter:title">
+  <meta content="Mit unserer professionellen Hauskaufberatung in [STADT] treffen Sie die richtige Entscheidung. Wir analysieren den Zustand der Immobilie, bewerten den Preis und beraten Sie umfassend. Baucampus [STADT] - Ihr zuverlässiger Partner beim Immobilienkauf." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -52,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="../dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="../dienstleistungen/hauskaufberatung.html" aria-current="page" class="dropdown-link w-inline-block w--current">
@@ -78,40 +78,6 @@
               <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                 <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                   <div>Immobilienbewertung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
                 </div>
               </a>
             </div>
@@ -145,9 +111,9 @@
   </div>
   <div data-w-id="6bb3502d-11a7-7305-cc26-615d8fce3ac0" class="section services wf-section">
     <div class="container max-1080-px">
-      <div class="parallax-image-wrapper"><img src="../images/beratung.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, 96vw" srcset="../images/beratung-p-500.webp 500w, ../images/beratung-p-800.webp 800w, ../images/beratung-p-1080.webp 1080w, ../images/beratung.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
+      <div class="parallax-image-wrapper"><img src="../images/beratung.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/beratung-p-500.webp 500w, ../images/beratung-p-800.webp 800w, ../images/beratung-p-1080.webp 1080w, ../images/beratung.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
       <div class="w-richtext">
-        <p>Beim <strong>Kauf eines Hauses</strong> oder einer Eigentumswohnung stellen sich viele Fragen. Mit einer professionellen und unabhängigen <strong>Hauskaufberatung</strong> durch unsere Bausachverständigen gehen Sie den richtigen Schritt, um ein Haus oder eine Eigentumswohnung auf der Basis klarer <strong>Fakten</strong> zu erwerben.</p>
+        <p>Beim <strong>Kauf eines Hauses</strong> oder einer <strong>Eigentumswohnung</strong> stellen sich viele Fragen. Mit einer professionellen und unabhängigen <strong>Hauskaufberatung</strong> durch unsere Bausachverständigen gehen Sie den richtigen Schritt, um ein Haus oder eine Eigentumswohnung auf der Basis klarer <strong>Fakten</strong> zu erwerben.</p>
         <p>Im Vorfeld der Hauskaufberatung prüft ihr Bausachverständiger die <strong>vorhandenen Unterlagen</strong>, meist das Exposé und bereitet den Termin anhand der Eckdaten des Gebäudes durch eine <strong>Marktwerteinschätzung</strong> vor. Vor Ort begeht der Sachverständige mit Ihnen gemeinsam die Immobilie, die Sie erwerben möchten und stellt den <strong>baulichen Zustand</strong> und den eventuellen <strong>Sanierungsbedarf</strong> des Objektes fest. Zudem beantwortet der Baugutachter Fragestellungen, auf die es Ihnen besonders ankommt, z.B. bzgl. eines Umbaus.</p>
         <p>Im Anschluss an die Besichtigung der Immobilie findet eine <strong>abschließende Besprechung</strong> statt, bei der Ihnen ihr Bausachverständiger noch einmal alle Fakten, die Sie zum Kauf der Immobilie wissen müssen, verständlich und klar nachvollziehbar erklärt. Die Beratung durch unsere Bausachverständigen beim Kauf eines Hauses oder einer Eigentumswohnung gibt ihnen <strong>Sicherheit</strong>, so dass Sie ihre Kaufentscheidung beruhigt treffen können.</p>
         <p>‍</p>
@@ -160,29 +126,29 @@
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688b9-d9f271c8" class="layout-item">
               <div class="icon-wrapper"><img src="../images/GPS.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3><strong>Ermittlung der Kaufkriterien</strong>: </h3>
-                <div>With drones, businesses can easily conduct aerial surveys and create 3D maps of their inventory. This allows for more accurate tracking of stock levels, reducing the risk of overstocking or stockouts.</div>
+                <h3><strong>Erstgespräch und Sichtung der Unterlagen</strong>: </h3>
+                <div>In einem ersten Kontakt werden Art und Umfang der Hauskaufberatung festgelegt und notwendige Unterlagen ausgetauscht.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c1-d9f271c8" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Vuc.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3>Schritt 2:</h3>
-                <div>Drones are increasingly being used to inspect infrastructure such as bridges, power lines, and pipelines. This is a safer and more efficient alternative to traditional methods, which often require workers to climb to dangerous heights or work in confined spaces.</div>
+                <h3>Gemeinsame Begehung:</h3>
+                <div>Gemeinsame Begehung der Immobilie zur Begutachtung des tatsächlichen baulichen und energetischen Zustandes.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c9-d9f271c8" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Menegment.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3><strong>Technische Prüfung und Bewertung</strong>:</h3>
-                <div>Bei der Besichtigung der ausgewählten Immobilien prüfen wir den technischen Zustand der Objekte, identifizieren mögliche Mängel und bewerten die Bausubstanz.</div>
+                <h3><strong>Nachbesprechung und Bewertung:</strong></h3>
+                <div>Umfassende Nachbesprechung und Erläuterung der Begehung gewonnene Erkenntnisse und Relevanz für Nutzung und Kaufpreis.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688d1-d9f271c8" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Serving.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3><strong>Unterstützung beim Kaufprozess</strong>: </h3>
-                <div>Abschließend begleiten wir Sie durch den gesamten Kaufprozess. Wir helfen Ihnen bei der Preisverhandlung, prüfen den Kaufvertrag und stehen Ihnen bis zur Schlüsselübergabe zur Seite.</div>
+                <h3><strong>Umbau und Modernisierungswünsche:</strong></h3>
+                <div>Beratung über die notwendigen und geplanten Umbau-, Sanierungs- und Modernisierungswünsche der besichtigten Immobilie.</div>
               </div>
             </div>
           </div>

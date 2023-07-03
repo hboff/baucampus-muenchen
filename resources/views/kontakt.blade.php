@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271c1" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Kontakt - Bausachverstaendige - Baucampus Muenchen</title>
-  <meta content="Pour toute demande ou information supplémentaire concernant nos services d&#x27;évaluation immobilière, n&#x27;hésitez pas à nous contacter. Nous sommes à votre disposition pour répondre à toutes vos questions." name="description">
-  <meta content="Kontakt - Bausachverstaendige - Baucampus Muenchen" property="og:title">
-  <meta content="Pour toute demande ou information supplémentaire concernant nos services d&#x27;évaluation immobilière, n&#x27;hésitez pas à nous contacter. Nous sommes à votre disposition pour répondre à toutes vos questions." property="og:description">
-  <meta content="Kontakt - Bausachverstaendige - Baucampus Muenchen" property="twitter:title">
-  <meta content="Pour toute demande ou information supplémentaire concernant nos services d&#x27;évaluation immobilière, n&#x27;hésitez pas à nous contacter. Nous sommes à votre disposition pour répondre à toutes vos questions." property="twitter:description">
+  <title>Kontakt - Baucampus STADT</title>
+  <meta content="Treten Sie mit unseren Experten in [STADT] in Kontakt. Wir freuen uns darauf, Ihre Bauprojekte zu besprechen und maßgeschneiderte Lösungen anzubieten. Baucampus [STADT] - Ihr zuverlässiger Partner im Bauwesen." name="description">
+  <meta content="Kontakt - Baucampus STADT" property="og:title">
+  <meta content="Treten Sie mit unseren Experten in [STADT] in Kontakt. Wir freuen uns darauf, Ihre Bauprojekte zu besprechen und maßgeschneiderte Lösungen anzubieten. Baucampus [STADT] - Ihr zuverlässiger Partner im Bauwesen." property="og:description">
+  <meta content="Kontakt - Baucampus STADT" property="twitter:title">
+  <meta content="Treten Sie mit unseren Experten in [STADT] in Kontakt. Wir freuen uns darauf, Ihre Bauprojekte zu besprechen und maßgeschneiderte Lösungen anzubieten. Baucampus [STADT] - Ihr zuverlässiger Partner im Bauwesen." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -53,12 +53,12 @@
             <div class="dropdown-link-list">
               <a href="dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -84,40 +84,6 @@
             </div>
           </nav>
         </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
         <a href="https://baucampus.com" target="_blank" class="nav-link w-nav-link">Baucampus</a>
         <a href="preise.html" class="nav-link w-nav-link">Preise</a>
         <a href="kontakt.html" aria-current="page" class="nav-link w-nav-link w--current">Kontakt</a>
@@ -133,9 +99,9 @@
     <div class="container">
       <div class="w-layout-grid contact-component">
         <div class="contact-content">
-          <h3 data-w-id="d3349579-0b18-6f19-95a4-d1bb8ad22c13" style="opacity:0" class="display-text">Kontaktformular</h3>
+          <h3 data-w-id="d3349579-0b18-6f19-95a4-d1bb8ad22c13" style="opacity:0" class="display-text">Kontakt</h3>
           <div>&quot;Wenn Sie Fragen haben oder weitere Informationen benötigen, zögern Sie bitte nicht, uns zu kontaktieren. Unser Team steht Ihnen jederzeit zur Verfügung, um Ihnen bei Ihren Fragen zu helfen.</div>
-          <div>
+          <div class="div-block-6">
             <div id="w-node-_49967b82-f3e5-16b1-3011-09d3c34bc882-d9f271c1" class="contact-item">
               <div class="contact-icon-wrapper">
                 <div class="w-embed"><svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

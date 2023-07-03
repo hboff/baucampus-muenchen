@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271c6" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>DPE - Diagnostiqueurs Immobiliers - Baucampus Nice</title>
-  <meta content="Experts en Diagnostic de Performance Énergétique (DPE). Augmentez l&#x27;efficacité énergétique de votre bien avec nos services professionnels à Nice. Planifiez votre DPE dès maintenant." name="description">
-  <meta content="DPE - Diagnostiqueurs Immobiliers - Baucampus Nice" property="og:title">
-  <meta content="Experts en Diagnostic de Performance Énergétique (DPE). Augmentez l&#x27;efficacité énergétique de votre bien avec nos services professionnels à Nice. Planifiez votre DPE dès maintenant." property="og:description">
-  <meta content="DPE - Diagnostiqueurs Immobiliers - Baucampus Nice" property="twitter:title">
-  <meta content="Experts en Diagnostic de Performance Énergétique (DPE). Augmentez l&#x27;efficacité énergétique de votre bien avec nos services professionnels à Nice. Planifiez votre DPE dès maintenant." property="twitter:description">
+  <title>Energieberatung - Baucampus STADT</title>
+  <meta content="Nutzen Sie unsere Expertise in [STADT] für eine umfassende Energieberatung. Wir helfen Ihnen, Energieeffizienz zu steigern, Kosten zu senken und einen Beitrag zum Umweltschutz zu leisten. Baucampus [STADT] - Ihr Partner für nachhaltige Energielösungen im Bauwesen." name="description">
+  <meta content="Energieberatung - Baucampus STADT" property="og:title">
+  <meta content="Nutzen Sie unsere Expertise in [STADT] für eine umfassende Energieberatung. Wir helfen Ihnen, Energieeffizienz zu steigern, Kosten zu senken und einen Beitrag zum Umweltschutz zu leisten. Baucampus [STADT] - Ihr Partner für nachhaltige Energielösungen im Bauwesen." property="og:description">
+  <meta content="Energieberatung - Baucampus STADT" property="twitter:title">
+  <meta content="Nutzen Sie unsere Expertise in [STADT] für eine umfassende Energieberatung. Wir helfen Ihnen, Energieeffizienz zu steigern, Kosten zu senken und einen Beitrag zum Umweltschutz zu leisten. Baucampus [STADT] - Ihr Partner für nachhaltige Energielösungen im Bauwesen." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -52,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="../dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -78,40 +78,6 @@
               <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                 <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                   <div>Immobilienbewertung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
                 </div>
               </a>
             </div>
@@ -145,7 +111,7 @@
   </div>
   <div data-w-id="6bb3502d-11a7-7305-cc26-615d8fce3ac0" class="section services wf-section">
     <div class="container max-1080-px">
-      <div class="parallax-image-wrapper"><img src="../images/energieberatungps.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, 96vw" srcset="../images/energieberatungps-p-500.webp 500w, ../images/energieberatungps-p-800.webp 800w, ../images/energieberatungps-p-1080.webp 1080w, ../images/energieberatungps.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
+      <div class="parallax-image-wrapper"><img src="../images/energieberatungps.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/energieberatungps-p-500.webp 500w, ../images/energieberatungps-p-800.webp 800w, ../images/energieberatungps-p-1080.webp 1080w, ../images/energieberatungps.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
       <div class="w-richtext">
         <p>Die Energieberatung durch einen zertifizierten Energieberater an ihrer Immobilie, soll ihnen einen Überblick über mögliche <strong>Modernisierungsmaßnahmen</strong> sowie <strong>Fördermöglichkeiten</strong> geben. Unsere Energieberater beraten wertneutral und objektiv und zeigen ihnen auf welche Maßnahmen im Rahmen der Energieberatung durch einen Energieberater sinnvoll sind und welche zu einem späteren Zeitpunkt durchgeführt werden können. </p>
         <p>Der Energieberater wird während der Energieberatung auf ihre Immobilie eingehen und sich ebenfalls mit den Gegebenheiten ihrer Immobilie auseinandersetzen.</p>
@@ -153,46 +119,15 @@
         <p>Es gibt zwei verschieden Arten von Energieausweisen zum einen gibt es den <strong>Verbrauchsausweis</strong>, welcher auf von Kunden gelieferten Informationen bezüglich des Energieverbrauch der letzten drei Jahre basiert. Zum anderen gibt es den Bedarfsausweis. Der <strong>Bedarfsausweis</strong> wird verwendet wenn es keine bisherigen Werte gibt, die als Grundlage dienen können. Hier wird zur Berechnung die Bauform, das Alter der Immobilie, die Heizung als auch die Dämmung verwendet.</p>
         <p>‍</p>
         <blockquote>&quot;Energieeffizienz ist kein Luxus, sondern eine Notwendigkeit. Mit der richtigen Energieberatung können Sie nicht nur Ihren ökologischen Fußabdruck verkleinern, sondern auch Ihren finanziellen Fußabdruck. Es ist an der Zeit, kluge Entscheidungen zu treffen, die unserem Planeten und Ihrer Brieftasche zugutekommen.&quot; </blockquote>
-        <p>Energeiberatung</p>
       </div>
       <div class="w-layout-grid grid-service-page">
         <div id="w-node-_2e19e198-f3de-3628-d31f-0c9184d0f60f-d9f271c6" class="layout-content">
-          <div class="w-layout-grid layout-item-list">
-            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688b9-d9f271c6" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/GPS.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
-              <div>
-                <h3>Schritt 1: </h3>
-                <div>With drones, businesses can easily conduct aerial surveys and create 3D maps of their inventory. This allows for more accurate tracking of stock levels, reducing the risk of overstocking or stockouts.</div>
-              </div>
-            </div>
-            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c1-d9f271c6" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/Vuc.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
-              <div>
-                <h3>Schritt 2:</h3>
-                <div>Drones are increasingly being used to inspect infrastructure such as bridges, power lines, and pipelines. This is a safer and more efficient alternative to traditional methods, which often require workers to climb to dangerous heights or work in confined spaces.</div>
-              </div>
-            </div>
-            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c9-d9f271c6" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/Menegment.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
-              <div>
-                <h3>Schritt 3:</h3>
-                <div>Drones are being used to deliver packages in areas that are difficult to reach by traditional methods. This includes remote areas, disaster zones, and even urban areas where traffic congestion is a problem.</div>
-              </div>
-            </div>
-            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688d1-d9f271c6" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/Serving.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
-              <div>
-                <h3>Schritt 4: </h3>
-                <div>Drones are being used to improve security in a variety of settings. They can be used to patrol borders, monitor crowds, and even track wildlife in conservation areas.</div>
-              </div>
-            </div>
-          </div>
           <div class="button-row">
             <a href="../kontakt.html" class="button-cta flat w-button">Fragen Sie uns</a>
           </div>
         </div>
         <div class="layout-image-wrapper">
-          <a href="#" class="lightbox-second-page w-inline-block w-lightbox"><img src="../images/energieberatungps.webp" width="1326" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, 96vw" srcset="../images/energieberatungps-p-500.webp 500w, ../images/energieberatungps-p-800.webp 800w, ../images/energieberatungps-p-1080.webp 1080w, ../images/energieberatungps.webp 1456w" alt="">
+          <a href="#" class="lightbox-second-page w-inline-block w-lightbox"><img src="../images/energieberatungps.webp" width="1326" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/energieberatungps-p-500.webp 500w, ../images/energieberatungps-p-800.webp 800w, ../images/energieberatungps-p-1080.webp 1080w, ../images/energieberatungps.webp 1456w" alt="">
             <script type="application/json" class="w-json">{
   "items": [
     {

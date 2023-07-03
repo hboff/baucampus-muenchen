@@ -1,11 +1,16 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
-<html data-wf-page="648d0891096d52bfd9f271d5" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="64986a10967f83483932a627" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Surveying and Mapping</title>
-  <meta content="Surveying and Mapping" property="og:title">
-  <meta content="Surveying and Mapping" property="twitter:title">
+  <title>Ausblidung - Baucampus STADT</title>
+  <meta content="Starten Sie Ihre Karriere im Bauwesen in [STADT] mit einer Ausbildung bei Baucampus. Lernen Sie von unseren erfahrenen Experten und profitieren Sie von unserem praxisorientierten Lehrplan. Baucampus [STADT] - Ihre Chance für eine erfolgreiche Zukunft im Bauwesen." name="description">
+  <meta content="Ausblidung - Baucampus STADT" property="og:title">
+  <meta content="Starten Sie Ihre Karriere im Bauwesen in [STADT] mit einer Ausbildung bei Baucampus. Lernen Sie von unseren erfahrenen Experten und profitieren Sie von unserem praxisorientierten Lehrplan. Baucampus [STADT] - Ihre Chance für eine erfolgreiche Zukunft im Bauwesen." property="og:description">
+  <meta content="Ausblidung - Baucampus STADT" property="twitter:title">
+  <meta content="Starten Sie Ihre Karriere im Bauwesen in [STADT] mit einer Ausbildung bei Baucampus. Lernen Sie von unseren erfahrenen Experten und profitieren Sie von unserem praxisorientierten Lehrplan. Baucampus [STADT] - Ihre Chance für eine erfolgreiche Zukunft im Bauwesen." property="twitter:description">
+  <meta property="og:type" content="website">
+  <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link href="../css/normalize.css" rel="stylesheet" type="text/css">
@@ -47,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="../dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -78,40 +83,6 @@
             </div>
           </nav>
         </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
         <a href="https://baucampus.com" target="_blank" class="nav-link w-nav-link">Baucampus</a>
         <a href="../preise.html" class="nav-link w-nav-link">Preise</a>
         <a href="../kontakt.html" class="nav-link w-nav-link">Kontakt</a>
@@ -124,79 +95,66 @@
   </div>
   <div data-w-id="6fca50ab-de2f-362b-39cc-d7d7b0ef92d4" class="main-section services wf-section">
     <div class="container relative">
-      <div data-w-id="bf8531e1-198a-24de-4582-6d1ae146a6f6" style="opacity:0" class="bread-crumbs-wrapper">
-        <a href="../index.html" class="bread-crumbs">Home</a>
-        <div class="bread-crumbs active"> / </div>
-        <a href="../leistungen.html" class="bread-crumbs">Service</a>
-        <div class="bread-crumbs active"> / </div>
-        <div class="bread-crumbs active">Surveying and Mapping</div>
-      </div>
-      <h3 data-w-id="d3349579-0b18-6f19-95a4-d1bb8ad22c13" style="opacity:0" class="display-text">Surveying and Mapping</h3>
+      <h3 data-w-id="d3349579-0b18-6f19-95a4-d1bb8ad22c13" style="opacity:0" class="display-text"><strong>Immobilienbewertung: Der Schlüssel zu einer erfolgreichen Investition</strong><strong><em></em></strong></h3>
     </div>
-    <div class="background-overlay"></div><img src="../images/3.1Photo_13.1Photo.webp" loading="lazy" sizes="100vw" srcset="../images/3.1Photo_1-p-500.png 500w, ../images/3.1Photo_1-p-800.png 800w, ../images/3.1Photo_13.1Photo.webp 1024w" alt="" class="background-img">
+    <div class="background-overlay"></div>
   </div>
   <div data-w-id="4c341b8b-2ef7-5a8c-1192-6185da71e66f" class="section sub-main wf-section">
     <div class="container">
       <div class="column-grid-post-main two">
-        <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef296" style="opacity:0" class="card-name-text">Surveying and Mapping</div>
+        <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef296" style="opacity:0" class="card-name-text">Immobilienbewertung</div>
         <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef293" style="opacity:0">
-          <p><em>Drone technology is revolutionizing the construction industry, and a contractor company that provides drone services can give its clients an edge in project management. Drone &amp; Management services can include aerial inspections, site mapping, and progress tracking. By utilizing drones, contractors can collect data that was previously impossible or extremely difficult to obtain, leading to increased efficiency, reduced costs, and improved safety. As Rob Muir, CEO of DroneLogbook, says, &quot;Drones are enabling companies to do more with less. They&#x27;re reducing costs and improving efficiency across the board.&quot;</em><br></p>
+          <p><strong>Die Immobilienbewertung ist ein entscheidender Aspekt bei jeder Immobilieninvestition. Durch eine genaue Bewertung kann der reale Marktwert einer Immobilie ermittelt werden, was wiederum die Basis für Preisverhandlungen und Finanzierungsentscheidungen bildet. Bei Baucampus führen unsere Experten gründliche Untersuchungen durch, unter Berücksichtigung einer Vielzahl von Faktoren wie Lage, Zustand, Größe und aktuelle Markttrends, um eine genaue und objektive Bewertung zu gewährleisten.<em></em></strong><br></p>
         </div>
       </div>
     </div>
   </div>
   <div data-w-id="6bb3502d-11a7-7305-cc26-615d8fce3ac0" class="section services wf-section">
     <div class="container max-1080-px">
-      <div class="parallax-image-wrapper"><img src="../images/Trimble-GPS-Machine-Control-.webp" sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, 96vw" srcset="../images/Trimble-GPS-Machine-Control--p-500.webp 500w, ../images/Trimble-GPS-Machine-Control--p-800.webp 800w, ../images/Trimble-GPS-Machine-Control-.webp 1024w" alt="" class="parallax-image second-img-for-service-page"></div>
+      <div class="parallax-image-wrapper"><img src="../images/ausbildung.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/ausbildung-p-500.webp 500w, ../images/ausbildung-p-800.webp 800w, ../images/ausbildung-p-1080.webp 1080w, ../images/ausbildung.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
       <div class="w-richtext">
-        <p>Drones have had a tremendous impact on businesses, and their contribution to management processes cannot be overstated. These unmanned aerial vehicles have revolutionized the way businesses operate across various industries, from agriculture to construction. Drones are being used to improve efficiency, reduce operational costs, and enhance safety measures.</p>
-        <p>In agriculture, drones are being used to monitor crop health, optimize irrigation, and track planting patterns. By doing so, farmers can increase their crop yields, generate more revenue, and reduce water usage. Drone technology is also being used to survey farmland and create 3D maps, enabling farmers to have more accurate data on the size of their farms and the location of their crops, which in turn helps them make better-informed decisions.</p>
-        <p>The construction industry is another sector that has benefited significantly from drone technology. Drones are being used to monitor construction sites, provide real-time data on progress, and conduct safety inspections. This has resulted in reduced operational costs, increased productivity, and improved safety measures. Drones are also being used to inspect buildings, bridges, and other infrastructure, reducing the need for workers to climb to dangerous heights or work in confined spaces, thereby enhancing safety measures.</p>
-        <p>Delivery is another area where drones are making an impact. They are being used to deliver packages in areas that are difficult to reach by traditional methods. This includes remote areas, disaster zones, and even urban areas where traffic congestion is a problem. This has enabled companies to deliver goods and services more efficiently and cost-effectively, leading to increased customer satisfaction.</p>
-        <p>Security is another area where drones are making significant contributions. They are being used to patrol borders, monitor crowds, and even track wildlife in conservation areas. By doing so, they are improving safety measures, reducing the risk of human error, and providing real-time data to authorities.</p>
-        <p>In conclusion, drones are revolutionizing the way businesses operate, and companies that are not adapting to this technology risk being left behind. Drones are here to stay, and their impact on management processes will only continue to grow. As the CEO of DJI, Frank Wang, said, </p>
-        <blockquote>&quot;Drones are not a thing of the future anymore. They&#x27;re here now, and they&#x27;re changing the world.&quot; </blockquote>
-        <p>Therefore, it is crucial for businesses to integrate drones into their operations to remain competitive and enhance their overall productivity and safety measures.</p>
-        <p>One thing is clear: drones are changing the way businesses operate, and those that don&#x27;t adapt risk falling behind. As the CEO of DJI, Frank Wang, said, &quot;Drones are not a thing of the future anymore. They&#x27;re here now, and they&#x27;re changing the world.&quot;<br><br><br>Drones have revolutionized the way businesses operate, and their impact on management cannot be overstated. From agriculture to construction, drones are being used to improve efficiency, reduce costs, and increase safety. Here are some examples of how drones are changing management:</p>
+        <blockquote><strong><em>Warum ist eine genaue Immobilienbewertung unerlässlich?</em></strong></blockquote>
+        <p><em>Eine genaue Immobilienbewertung ist nicht nur für den Verkauf oder Kauf einer Immobilie wichtig, sondern auch für die langfristige Planung und strategische Entscheidungsfindung. Sie hilft Investoren, den potenziellen Ertrag ihrer Investition zu verstehen und Risiken zu minimieren.</em><strong><em>‍</em></strong></p>
+        <p><strong><em>Nutzen Sie die Expertise von Baucampus für eine genaue Immobilienbewertung.</em></strong></p>
+        <p>‍</p>
+        <p>‍</p>
+        <p>‍</p>
+        <blockquote><strong>Was macht eine Immobilienbewertung so wichtig?</strong></blockquote>
       </div>
       <div class="w-layout-grid grid-service-page">
-        <div id="w-node-_2e19e198-f3de-3628-d31f-0c9184d0f60f-d9f271d5" class="layout-content">
+        <div id="w-node-_2e19e198-f3de-3628-d31f-0c9184d0f60f-3932a627" class="layout-content">
           <div class="w-layout-grid layout-item-list">
-            <div id="w-node-_105f8ae5-f7b6-137f-9cdc-7dc2742c5ef9-d9f271d5" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/GPS.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
+            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688b9-3932a627" class="layout-item">
               <div>
-                <h3>Inventory Management: </h3>
+                <h3><strong>Ermittlung des Marktwerts für Verkaufsverhandlungen</strong></h3>
                 <div>With drones, businesses can easily conduct aerial surveys and create 3D maps of their inventory. This allows for more accurate tracking of stock levels, reducing the risk of overstocking or stockouts.</div>
               </div>
             </div>
-            <div id="w-node-_105f8ae5-f7b6-137f-9cdc-7dc2742c5f01-d9f271d5" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/Vuc.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
+            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c1-3932a627" class="layout-item">
               <div>
-                <h3>Inspections:</h3>
+                <h3><strong>Beurteilung der Rentabilität einer Immobilieninvestition</strong></h3>
                 <div>Drones are increasingly being used to inspect infrastructure such as bridges, power lines, and pipelines. This is a safer and more efficient alternative to traditional methods, which often require workers to climb to dangerous heights or work in confined spaces.</div>
               </div>
             </div>
-            <div id="w-node-_105f8ae5-f7b6-137f-9cdc-7dc2742c5f09-d9f271d5" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/Menegment.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
+            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c9-3932a627" class="layout-item">
               <div>
-                <h3>Delivery:</h3>
+                <h3><strong>Erfüllung von Finanzierungs- und Steueranforderungen</strong></h3>
                 <div>Drones are being used to deliver packages in areas that are difficult to reach by traditional methods. This includes remote areas, disaster zones, and even urban areas where traffic congestion is a problem.</div>
               </div>
             </div>
-            <div id="w-node-_105f8ae5-f7b6-137f-9cdc-7dc2742c5f11-d9f271d5" class="layout-item">
-              <div class="icon-wrapper"><img src="../images/Serving.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
+            <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688d1-3932a627" class="layout-item">
               <div>
-                <h3>Security: </h3>
+                <h3><strong>Strategische Planung und Entscheidungsfindung</strong></h3>
                 <div>Drones are being used to improve security in a variety of settings. They can be used to patrol borders, monitor crowds, and even track wildlife in conservation areas.</div>
               </div>
             </div>
           </div>
           <div class="button-row">
-            <a href="../kontakt.html" class="button-cta flat w-button">Get In Touch</a>
+            <a href="../kontakt.html" class="button-cta flat w-button">Kontaktieren</a>
           </div>
         </div>
         <div class="layout-image-wrapper">
-          <a href="#" class="lightbox-second-page w-inline-block w-lightbox"><img src="../images/Drone--BIM-Management.webp" width="1326" sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, 96vw" srcset="../images/Drone--BIM-Management-p-500.webp 500w, ../images/Drone--BIM-Management-p-800.webp 800w, ../images/Drone--BIM-Management.webp 1024w" alt="">
+          <a href="#" class="lightbox-second-page w-inline-block w-lightbox"><img src="../images/1.1Photo_11.1Photo.webp" width="1326" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/1.1Photo_1-p-500.png 500w, ../images/1.1Photo_1-p-800.png 800w, ../images/1.1Photo_11.1Photo.webp 1024w" alt="">
             <script type="application/json" class="w-json">{
   "items": [
     {

@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271d7" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Termites - Diagnostiqueurs Immobiliers - Baucampus Nice</title>
-  <meta content="Experts en diagnostic de termites. Préservez la valeur de votre bien avec nos services de détection de termites à Nice. Contactez-nous pour une inspection dès aujourd&#x27;hui." name="description">
-  <meta content="Termites - Diagnostiqueurs Immobiliers - Baucampus Nice" property="og:title">
-  <meta content="Experts en diagnostic de termites. Préservez la valeur de votre bien avec nos services de détection de termites à Nice. Contactez-nous pour une inspection dès aujourd&#x27;hui." property="og:description">
-  <meta content="Termites - Diagnostiqueurs Immobiliers - Baucampus Nice" property="twitter:title">
-  <meta content="Experts en diagnostic de termites. Préservez la valeur de votre bien avec nos services de détection de termites à Nice. Contactez-nous pour une inspection dès aujourd&#x27;hui." property="twitter:description">
+  <title>Schimmelpilz Beratung - Baucampus STADT</title>
+  <meta content="Bekämpfen Sie Schimmelpilzbefall effektiv mit unserer professionellen Beratung in [STADT]. Unsere Experten analysieren, beraten und unterstützen Sie bei der Beseitigung und Prävention von Schimmelproblemen. Baucampus [STADT] - Ihr verlässlicher Partner gegen Schimmel." name="description">
+  <meta content="Schimmelpilz Beratung - Baucampus STADT" property="og:title">
+  <meta content="Bekämpfen Sie Schimmelpilzbefall effektiv mit unserer professionellen Beratung in [STADT]. Unsere Experten analysieren, beraten und unterstützen Sie bei der Beseitigung und Prävention von Schimmelproblemen. Baucampus [STADT] - Ihr verlässlicher Partner gegen Schimmel." property="og:description">
+  <meta content="Schimmelpilz Beratung - Baucampus STADT" property="twitter:title">
+  <meta content="Bekämpfen Sie Schimmelpilzbefall effektiv mit unserer professionellen Beratung in [STADT]. Unsere Experten analysieren, beraten und unterstützen Sie bei der Beseitigung und Prävention von Schimmelproblemen. Baucampus [STADT] - Ihr verlässlicher Partner gegen Schimmel." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -52,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="../dienstleistungen/schimmelpilz.html" aria-current="page" class="dropdown-link w-inline-block w--current">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -78,40 +78,6 @@
               <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                 <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                   <div>Immobilienbewertung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
                 </div>
               </a>
             </div>
@@ -155,12 +121,12 @@
                 <div class="dropdown-link-list">
                   <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                     <div>
-                      <div>Bauschadensbewertung</div>
+                      <div>Beratung Bauschaden</div>
                     </div>
                   </a>
                   <a href="../dienstleistungen/schimmelpilz.html" aria-current="page" class="dropdown-link w-inline-block w--current">
                     <div>
-                      <div>Schimmelpilzbewertung</div>
+                      <div>Beratung Schimmmelpilz</div>
                     </div>
                   </a>
                   <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -181,40 +147,6 @@
                   <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                     <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                       <div>Immobilienbewertung</div>
-                    </div>
-                  </a>
-                </div>
-              </nav>
-            </div>
-            <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-              <aside class="dropdown-toggle w-dropdown-toggle">
-                <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></div>
-                <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-                  <div>Leistungen</div>
-                </a>
-              </aside>
-              <nav class="dropdown-list w-dropdown-list">
-                <div class="dropdown-link-list">
-                  <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Bewertung</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Inspektionen</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Beratung</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Ausbildung</div>
                     </div>
                   </a>
                 </div>
@@ -257,12 +189,12 @@
                 <div class="dropdown-link-list">
                   <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                     <div>
-                      <div>Bauschadensbewertung</div>
+                      <div>Beratung Bauschaden</div>
                     </div>
                   </a>
                   <a href="../dienstleistungen/schimmelpilz.html" aria-current="page" class="dropdown-link w-inline-block w--current">
                     <div>
-                      <div>Schimmelpilzbewertung</div>
+                      <div>Beratung Schimmmelpilz</div>
                     </div>
                   </a>
                   <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -283,40 +215,6 @@
                   <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                     <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                       <div>Immobilienbewertung</div>
-                    </div>
-                  </a>
-                </div>
-              </nav>
-            </div>
-            <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-              <aside class="dropdown-toggle w-dropdown-toggle">
-                <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></div>
-                <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-                  <div>Leistungen</div>
-                </a>
-              </aside>
-              <nav class="dropdown-list w-dropdown-list">
-                <div class="dropdown-link-list">
-                  <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Bewertung</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Inspektionen</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Beratung</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Ausbildung</div>
                     </div>
                   </a>
                 </div>
@@ -357,12 +255,12 @@
                 <div class="dropdown-link-list">
                   <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                     <div>
-                      <div>Bauschadensbewertung</div>
+                      <div>Beratung Bauschaden</div>
                     </div>
                   </a>
                   <a href="../dienstleistungen/schimmelpilz.html" aria-current="page" class="dropdown-link w-inline-block w--current">
                     <div>
-                      <div>Schimmelpilzbewertung</div>
+                      <div>Beratung Schimmmelpilz</div>
                     </div>
                   </a>
                   <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -383,40 +281,6 @@
                   <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                     <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                       <div>Immobilienbewertung</div>
-                    </div>
-                  </a>
-                </div>
-              </nav>
-            </div>
-            <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-              <aside class="dropdown-toggle w-dropdown-toggle">
-                <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg></div>
-                <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-                  <div>Leistungen</div>
-                </a>
-              </aside>
-              <nav class="dropdown-list w-dropdown-list">
-                <div class="dropdown-link-list">
-                  <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Bewertung</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Inspektionen</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Beratung</div>
-                    </div>
-                  </a>
-                  <a href="#" class="dropdown-link w-inline-block">
-                    <div>
-                      <div>Ausbildung</div>
                     </div>
                   </a>
                 </div>

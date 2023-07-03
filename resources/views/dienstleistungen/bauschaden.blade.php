@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271be" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Amiante - Diagnostiqueurs Immobiliers - Baucampus Nice</title>
-  <meta content="Expertise en détection d&#x27;amiante. Assurez la sécurité de votre propriété avec nos services de diagnostic d&#x27;amiante à Nice. Contactez-nous pour plus d&#x27;informations." name="description">
-  <meta content="Amiante - Diagnostiqueurs Immobiliers - Baucampus Nice" property="og:title">
-  <meta content="Expertise en détection d&#x27;amiante. Assurez la sécurité de votre propriété avec nos services de diagnostic d&#x27;amiante à Nice. Contactez-nous pour plus d&#x27;informations." property="og:description">
-  <meta content="Amiante - Diagnostiqueurs Immobiliers - Baucampus Nice" property="twitter:title">
-  <meta content="Expertise en détection d&#x27;amiante. Assurez la sécurité de votre propriété avec nos services de diagnostic d&#x27;amiante à Nice. Contactez-nous pour plus d&#x27;informations." property="twitter:description">
+  <title>Beratung Bauschaden - Baucampus STADT</title>
+  <meta content="Bei Bauschäden stehen unsere Experten in [STADT] an Ihrer Seite. Wir analysieren, beraten und entwickeln effektive Lösungsstrategien, um Schäden zu beheben und zukünftige Probleme zu vermeiden. Baucampus [STADT] - Ihr erfahrener Partner bei Bauschäden." name="description">
+  <meta content="Beratung Bauschaden - Baucampus STADT" property="og:title">
+  <meta content="Bei Bauschäden stehen unsere Experten in [STADT] an Ihrer Seite. Wir analysieren, beraten und entwickeln effektive Lösungsstrategien, um Schäden zu beheben und zukünftige Probleme zu vermeiden. Baucampus [STADT] - Ihr erfahrener Partner bei Bauschäden." property="og:description">
+  <meta content="Beratung Bauschaden - Baucampus STADT" property="twitter:title">
+  <meta content="Bei Bauschäden stehen unsere Experten in [STADT] an Ihrer Seite. Wir analysieren, beraten und entwickeln effektive Lösungsstrategien, um Schäden zu beheben und zukünftige Probleme zu vermeiden. Baucampus [STADT] - Ihr erfahrener Partner bei Bauschäden." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -52,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="../dienstleistungen/bauschaden.html" aria-current="page" class="dropdown-link w-inline-block w--current">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="../dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -78,40 +78,6 @@
               <a href="../dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                 <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                   <div>Immobilienbewertung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
                 </div>
               </a>
             </div>
@@ -138,18 +104,18 @@
       <div class="column-grid-post-main two">
         <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef296" style="opacity:0" class="card-name-text">Bauschaden</div>
         <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef293" style="opacity:0">
-          <p><em>Drone technology is revolutionizing the construction industry, and a contractor company that provides drone services can give its clients an edge in project management. Drone &amp; Management services can include aerial inspections, site mapping, and progress tracking. By utilizing drones, contractors can collect data that was previously impossible or extremely difficult to obtain, leading to increased efficiency, reduced costs, and improved safety. As Rob Muir, CEO of DroneLogbook, says, &quot;Drones are enabling companies to do more with less. They&#x27;re reducing costs and improving efficiency across the board.&quot;</em><br></p>
+          <p><em>Ein Bausachverständiger ist unerlässlich, um die Ursachen von Baumängeln und Bauschäden zu identifizieren und zu beheben, da ein Haus ein komplexes Projekt mit vielen beteiligten Gewerken und Materialien ist. Mit seiner neutralen und fachkundigen Beurteilung kann ein Sachverständiger nicht nur die Ursache von Mängeln ermitteln und erste Maßnahmen zur Schadensbegrenzung einleiten, sondern dem Bauherrn auch die Sicherheit geben, auf Augenhöhe mit Handwerkern und Bauunternehmern zu verhandeln.</em><br></p>
         </div>
       </div>
     </div>
   </div>
   <div data-w-id="6bb3502d-11a7-7305-cc26-615d8fce3ac0" class="section services wf-section">
     <div class="container max-1080-px">
-      <div class="parallax-image-wrapper"><img src="../images/bauschaden.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, 96vw" srcset="../images/bauschaden-p-500.webp 500w, ../images/bauschaden-p-800.webp 800w, ../images/bauschaden-p-1080.webp 1080w, ../images/bauschaden.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
+      <div class="parallax-image-wrapper"><img src="../images/bauschaden.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/bauschaden-p-500.webp 500w, ../images/bauschaden-p-800.webp 800w, ../images/bauschaden-p-1080.webp 1080w, ../images/bauschaden.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
       <div class="w-richtext">
-        <p>Die Ursachen von Baumängeln und Bauschäden sind, ohne kompetente und <strong>fachliche Hilfe</strong> durch einen Bausachverständigen nur schwer zu ermitteln. Ein Haus ist, im Vergleich mit der Serienfertigung, immer als ein <strong>handwerkliches Einzelstück</strong> zu sehen, dass durch die Vielzahl der Gewerke und Materialien, Planänderungen oder Planungsfehlern nicht fehlerfrei erstellt werden kann.</p>
-        <p>So entstehen Baumängel, das heißt das Gebäude wurde nicht wie im Kaufvertrag oder Bauvertrag vereinbart hergestellt. Diese Baumängel führen oft zu Bauschäden, die nicht nur optische oder <strong>funktionelle Beeinträchtigungen</strong>, sondern sie können auch die Bausubstanz schädigen. Hierbei ist es einerlei, ob diese Bauschäden bei einem Neubau oder durch die Modernisierung einer Bestandsimmobilie entstanden sind.</p>
-        <p>Als Bauherr und Kunde wollen Sie diese Mängel nicht hinnehmen. Ein Bausachverständiger ist hier der <strong>kompetente Ansprechpartner</strong>. Der Bausachverständige kann eine neutrale Ursachenermittlung für en Baumangel bzw. Bauschaden vornehmen und helfen, das Ausmaß des Schadens durch fachlich qualifizierte Erstmaßnahmen zu begrenzen. Das einschalten eines Gutachters und dessen <strong>fachliche Erläuterungen</strong> bzw. dessen Gutachten gibt ihnen als Bauherr die notwendige Sicherheit mit den Handwerkern und Bauunternehmern auf Augenhöhe zu verhandeln.</p>
+        <p>Die Ursachen von Baumängeln und Bauschäden sind, ohne kompetente und <strong>fachliche Hilfe</strong> durch einen Bausachverständigen, nur schwer zu ermitteln. Ein Haus ist, im Vergleich mit der Serienfertigung, immer als ein <strong>handwerkliches Einzelstück</strong> zu sehen, dass durch die Vielzahl der Gewerke und Materialien, Planänderungen oder Planungsfehlern nicht fehlerfrei erstellt werden kann.</p>
+        <p>So entstehen Baumängel, das heißt das Gebäude wurde nicht wie im Kaufvertrag oder Bauvertrag vereinbart hergestellt oder entspricht nicht den Normen oder den anerkannten Regeln der Technik. Diese Baumängel führen oft zu Bauschäden, die nicht nur optische oder <strong>funktionelle Beeinträchtigungen einhergehen</strong>, sondern sie können auch die Bausubstanz schädigen. Hierbei ist es einerlei, ob diese Bauschäden bei einem Neubau oder durch die Modernisierung einer Bestandsimmobilie entstanden sind.</p>
+        <p>Als Bauherr und Kunde wollen Sie diese Mängel nicht hinnehmen. Ein Bausachverständiger ist hier der <strong>kompetente Ansprechpartner</strong>. Der Bausachverständige kann eine neutrale Ursachenermittlung für den Baumangel bzw. Bauschaden vornehmen und helfen, das Ausmaß des Schadens durch fachlich qualifizierte Erstmaßnahmen zu begrenzen. Das Einschalten eines Gutachters und dessen <strong>fachliche Erläuterungen</strong> bzw. dessen Gutachten gibt Ihnen als Bauherr die notwendige Sicherheit, mit den Handwerkern und Bauunternehmern auf Augenhöhe zu verhandeln.</p>
         <p>‍</p>
         <blockquote>&quot;Bauschäden sind mehr als nur kosmetische Mängel. Sie sind stumme Zeugen mangelhafter Ausführung oder fehlender Pflege, die das Fundament Ihrer Immobilie und ihren Wert untergraben. Die richtige Bewertung und Behebung ist der Schlüssel zu einem langlebigen und sicheren Zuhause.&quot; </blockquote>
         <p>Bauschaden</p>
@@ -161,28 +127,28 @@
               <div class="icon-wrapper"><img src="../images/GPS.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
                 <h3>Schritt 1: </h3>
-                <div>With drones, businesses can easily conduct aerial surveys and create 3D maps of their inventory. This allows for more accurate tracking of stock levels, reducing the risk of overstocking or stockouts.</div>
+                <div>In einem ersten Gespräch wird der Umfang des Problems besprochen und die betroffenen Bereiche werden begutachtet</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c1-d9f271be" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Vuc.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
                 <h3>Schritt 2:</h3>
-                <div>Drones are increasingly being used to inspect infrastructure such as bridges, power lines, and pipelines. This is a safer and more efficient alternative to traditional methods, which often require workers to climb to dangerous heights or work in confined spaces.</div>
+                <div>Der Berater führt eine gründliche Analyse durch, um die Ursache des Bauschadens zu bestimmen und das Ausmaß des Problems zu diagnostizieren.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c9-d9f271be" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Menegment.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
                 <h3>Schritt 3:</h3>
-                <div>Drones are being used to deliver packages in areas that are difficult to reach by traditional methods. This includes remote areas, disaster zones, and even urban areas where traffic congestion is a problem.</div>
+                <div>Basierend auf der Diagnose werden geeignete Sanierungsmethoden vorgeschlagen und diskutiert.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688d1-d9f271be" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Serving.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
                 <h3>Schritt 4: </h3>
-                <div>Drones are being used to improve security in a variety of settings. They can be used to patrol borders, monitor crowds, and even track wildlife in conservation areas.</div>
+                <div>Nach der Sanierung wird eine Nachkontrolle durchgeführt und Präventionsmaßnahmen werden besprochen, um zukünftigen Schäden an der Bausubstanz zu verhindern.</div>
               </div>
             </div>
           </div>
@@ -191,7 +157,7 @@
           </div>
         </div>
         <div class="layout-image-wrapper">
-          <a href="#" class="lightbox-second-page w-inline-block w-lightbox"><img src="../images/bauschaden.webp" width="1326" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, 96vw" srcset="../images/bauschaden-p-500.webp 500w, ../images/bauschaden-p-800.webp 800w, ../images/bauschaden-p-1080.webp 1080w, ../images/bauschaden.webp 1456w" alt="">
+          <a href="#" class="lightbox-second-page w-inline-block w-lightbox"><img src="../images/bauschaden.webp" width="1326" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/bauschaden-p-500.webp 500w, ../images/bauschaden-p-800.webp 800w, ../images/bauschaden-p-1080.webp 1080w, ../images/bauschaden.webp 1456w" alt="">
             <script type="application/json" class="w-json">{
   "items": [
     {

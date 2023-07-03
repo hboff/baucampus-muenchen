@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271cf" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Preise - Bausachverstaendige - Baucampus Muenchen</title>
-  <meta content="Découvrez nos offres chez Baucampus Nice - Diagnostiqueurs Immobiliers. Nous proposons des services d&#x27;expertise immobilière professionnelle, y compris des évaluations techniques et des diagnostics énergétiques. Consultez nos offres dès maintenant." name="description">
-  <meta content="Preise - Bausachverstaendige - Baucampus Muenchen" property="og:title">
-  <meta content="Découvrez nos offres chez Baucampus Nice - Diagnostiqueurs Immobiliers. Nous proposons des services d&#x27;expertise immobilière professionnelle, y compris des évaluations techniques et des diagnostics énergétiques. Consultez nos offres dès maintenant." property="og:description">
-  <meta content="Preise - Bausachverstaendige - Baucampus Muenchen" property="twitter:title">
-  <meta content="Découvrez nos offres chez Baucampus Nice - Diagnostiqueurs Immobiliers. Nous proposons des services d&#x27;expertise immobilière professionnelle, y compris des évaluations techniques et des diagnostics énergétiques. Consultez nos offres dès maintenant." property="twitter:description">
+  <title>STADT - Baucampus</title>
+  <meta content="Ihr kompetenter Partner für Bauprojekte in STADT. Profitieren Sie von unserer Expertise in Planung, Bauüberwachung und Abnahme. Mit Baucampus gewinnen Sie vertrauenswürdige Bauexperten, die Ihr Projekt sicher zum Erfolg führen." name="description">
+  <meta content="STADT - Baucampus" property="og:title">
+  <meta content="Ihr kompetenter Partner für Bauprojekte in STADT. Profitieren Sie von unserer Expertise in Planung, Bauüberwachung und Abnahme. Mit Baucampus gewinnen Sie vertrauenswürdige Bauexperten, die Ihr Projekt sicher zum Erfolg führen." property="og:description">
+  <meta content="STADT - Baucampus" property="twitter:title">
+  <meta content="Ihr kompetenter Partner für Bauprojekte in STADT. Profitieren Sie von unserer Expertise in Planung, Bauüberwachung und Abnahme. Mit Baucampus gewinnen Sie vertrauenswürdige Bauexperten, die Ihr Projekt sicher zum Erfolg führen." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -54,12 +54,12 @@
               <div class="dropdown-link-list">
                 <a href="dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                   <div>
-                    <div>Bauschadensbewertung</div>
+                    <div>Beratung Bauschaden</div>
                   </div>
                 </a>
                 <a href="dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                   <div>
-                    <div>Schimmelpilzbewertung</div>
+                    <div>Beratung Schimmmelpilz</div>
                   </div>
                 </a>
                 <a href="dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -80,40 +80,6 @@
                 <a href="dienstleistungen/immobilienbewertung.html" class="dropdown-link w-inline-block">
                   <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                     <div>Immobilienbewertung</div>
-                  </div>
-                </a>
-              </div>
-            </nav>
-          </div>
-          <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-            <aside class="dropdown-toggle w-dropdown-toggle">
-              <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg></div>
-              <a href="leistungen.html" class="link-for-dropdown w-inline-block">
-                <div>Leistungen</div>
-              </a>
-            </aside>
-            <nav class="dropdown-list w-dropdown-list">
-              <div class="dropdown-link-list">
-                <a href="leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                  <div>
-                    <div>Bewertung</div>
-                  </div>
-                </a>
-                <a href="#" class="dropdown-link w-inline-block">
-                  <div>
-                    <div>Inspektionen</div>
-                  </div>
-                </a>
-                <a href="#" class="dropdown-link w-inline-block">
-                  <div>
-                    <div>Beratung</div>
-                  </div>
-                </a>
-                <a href="#" class="dropdown-link w-inline-block">
-                  <div>
-                    <div>Ausbildung</div>
                   </div>
                 </a>
               </div>
@@ -280,7 +246,7 @@
               </div>
             </div>
             <div class="uui-blogpost04_newsletter">
-              <div class="uui-heading-xsmall">Olivier Schmidt</div><img src="images/thispersondoesnotexist5.jpg" loading="lazy" width="132" sizes="(max-width: 479px) 41vw, 132px" srcset="images/thispersondoesnotexist5-p-500.jpg 500w, images/thispersondoesnotexist5-p-800.jpg 800w, images/thispersondoesnotexist5.jpg 1024w" alt="" class="image-2">
+              <div class="uui-heading-xsmall">Olivier Schmidt</div><img src="images/thispersondoesnotexist5.jpg" loading="lazy" width="132" sizes="(max-width: 479px) 50vw, 132px" srcset="images/thispersondoesnotexist5-p-500.jpg 500w, images/thispersondoesnotexist5-p-800.jpg 800w, images/thispersondoesnotexist5.jpg 1024w" alt="" class="image-2">
               <section class="uui-section_contact01">
                 <div class="uui-page-padding-3">
                   <div class="uui-container-small">

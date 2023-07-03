@@ -1,14 +1,14 @@
 <!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Mon Jun 26 2023 16:46:10 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Thu Jun 29 2023 21:31:35 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="648d0891096d52bfd9f271c9" data-wf-site="648d0891096d52bfd9f271dc" lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>ERP - Diagnostiqueurs Immobiliers - Baucampus Nice</title>
-  <meta content="Experts en État des Risques et Pollutions (ERP). Nous identifions les risques environnementaux qui pourraient affecter votre propriété à Nice. Contactez-nous pour un diagnostic complet." name="description">
-  <meta content="ERP - Diagnostiqueurs Immobiliers - Baucampus Nice" property="og:title">
-  <meta content="Experts en État des Risques et Pollutions (ERP). Nous identifions les risques environnementaux qui pourraient affecter votre propriété à Nice. Contactez-nous pour un diagnostic complet." property="og:description">
-  <meta content="ERP - Diagnostiqueurs Immobiliers - Baucampus Nice" property="twitter:title">
-  <meta content="Experts en État des Risques et Pollutions (ERP). Nous identifions les risques environnementaux qui pourraient affecter votre propriété à Nice. Contactez-nous pour un diagnostic complet." property="twitter:description">
+  <title>Immobilienbewertung - Baucampus STADT</title>
+  <meta content="Lassen Sie Ihre Immobilie von unseren Experten in [STADT] bewerten. Mit unserer Erfahrung und Marktkenntnis garantieren wir eine faire und realistische Einschätzung Ihres Eigentums. Baucampus [STADT] - Ihr professioneller Partner für Immobilienbewertungen." name="description">
+  <meta content="Immobilienbewertung - Baucampus STADT" property="og:title">
+  <meta content="Lassen Sie Ihre Immobilie von unseren Experten in [STADT] bewerten. Mit unserer Erfahrung und Marktkenntnis garantieren wir eine faire und realistische Einschätzung Ihres Eigentums. Baucampus [STADT] - Ihr professioneller Partner für Immobilienbewertungen." property="og:description">
+  <meta content="Immobilienbewertung - Baucampus STADT" property="twitter:title">
+  <meta content="Lassen Sie Ihre Immobilie von unseren Experten in [STADT] bewerten. Mit unserer Erfahrung und Marktkenntnis garantieren wir eine faire und realistische Einschätzung Ihres Eigentums. Baucampus [STADT] - Ihr professioneller Partner für Immobilienbewertungen." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -52,12 +52,12 @@
             <div class="dropdown-link-list">
               <a href="../dienstleistungen/bauschaden.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Bauschadensbewertung</div>
+                  <div>Beratung Bauschaden</div>
                 </div>
               </a>
               <a href="../dienstleistungen/schimmelpilz.html" class="dropdown-link w-inline-block">
                 <div>
-                  <div>Schimmelpilzbewertung</div>
+                  <div>Beratung Schimmmelpilz</div>
                 </div>
               </a>
               <a href="../dienstleistungen/hauskaufberatung.html" class="dropdown-link w-inline-block">
@@ -78,40 +78,6 @@
               <a href="../dienstleistungen/immobilienbewertung.html" aria-current="page" class="dropdown-link w-inline-block w--current">
                 <div id="w-node-c8909249-ed55-ded4-b3d1-381c167e4fbc-23a87122">
                   <div>Immobilienbewertung</div>
-                </div>
-              </a>
-            </div>
-          </nav>
-        </div>
-        <div data-hover="true" data-delay="300" data-w-id="07edec31-ed40-f85a-bb93-8d0f1947123d" class="navbar-menu-dropdown w-dropdown">
-          <aside class="dropdown-toggle w-dropdown-toggle">
-            <div class="dropdown-icon w-embed"><svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M5 7.5L10 12.5L15 7.5" stroke="currentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"></path>
-              </svg></div>
-            <a href="../leistungen.html" class="link-for-dropdown w-inline-block">
-              <div>Leistungen</div>
-            </a>
-          </aside>
-          <nav class="dropdown-list w-dropdown-list">
-            <div class="dropdown-link-list">
-              <a href="../leistungen/berwertung.html" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Bewertung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Inspektionen</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Beratung</div>
-                </div>
-              </a>
-              <a href="#" class="dropdown-link w-inline-block">
-                <div>
-                  <div>Ausbildung</div>
                 </div>
               </a>
             </div>
@@ -138,7 +104,7 @@
       <div class="column-grid-post-main two">
         <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef296" style="opacity:0" class="card-name-text">Immobilienbewertung</div>
         <div data-w-id="04297b0d-1249-7c77-a3e2-8c234f4ef293" style="opacity:0">
-          <p><em>Ermitteln Sie mit Sicherheit den Wert Ihrer Immobilie durch eine professionelle Bewertung durch unsere Sachverständigen. Wir nehmen eine umfassende Prüfung Ihrer Immobilie vor, um einen genauen Marktwert zu ermitteln und klären alle Ihre Fragen, um Ihnen eine fundierte Basis für Ihre Entscheidungen zu bieten. Nach der Bewertung liefern wir Ihnen eine klare, verständliche Zusammenfassung des ermittelten Werts, so dass Sie Ihre nächsten Schritte mit voller Zuversicht planen können.</em><br></p>
+          <p><em>Ermitteln Sie mit Sicherheit den Wert Ihrer Immobilie durch eine professionelle Bewertung durch unsere Sachverständigen. Wir nehmen eine umfassende Prüfung Ihrer Immobilie vor, um einen genauen Marktwert zu ermitteln und klären alle Ihre Fragen, um Ihnen eine fundierte Basis für Ihre Entscheidungen zu bieten. Nach der Bewertung liefern wir Ihnen eine klare, verständliche Zusammenfassung des ermittelten Werts, sodass Sie Ihre nächsten Schritte mit voller Zuversicht planen können.</em><br></p>
         </div>
       </div>
     </div>
@@ -148,12 +114,11 @@
       <div class="parallax-image-wrapper"><img src="../images/inspektionen.webp" sizes="(max-width: 479px) 91vw, (max-width: 767px) 95vw, (max-width: 1439px) 96vw, 1080px" srcset="../images/inspektionen-p-500.webp 500w, ../images/inspektionen-p-800.webp 800w, ../images/inspektionen-p-1080.webp 1080w, ../images/inspektionen.webp 1456w" alt="" class="parallax-image second-img-for-service-page"></div>
       <div class="w-richtext">
         <p>Die <strong>baubegleitende Qualitätssicherung</strong> durch einen Bausachverständigen ermöglicht dem Bauherren eine neutrale Qualitätskontrolle für den Bau oder den Umbau ihrer Immobilie. Durch die steigende Konkurrenz und Kostendruck in der Baubranche leidet die Bauqualität. Hier kann ein Bausachverständiger helfend eingreifen und so Geld und Nerven sparen. Ein Baugutachter, der die <strong>baubegleitende Qualitätssicherung</strong> durchführt, stellt sicher, dass Baubeschreibung, Bauplanung und Bauausführung übereinstimmen.</p>
-        <p> Ein Bausachverständiger sollte schon bereits vor dem Unterzeichnen der Bauunterlagen hinzugezogen werden, um mögliche <strong>Planungsfehler zu vermeiden</strong>. Hierzu bieten wir in unserem Ersttermin die Prüfung der Unterlagen auf Plausibilität und Vollständigkeit und bieten eine Überprüfung der Bauunterlagen in fachtechnischer und qualitätstechnischer Hinsicht an. Zu einem vollständigen Ersttermin im Rahmen der qualitätssicherenden Baubegleitung gehört auch die Besichtigung des Grundstücks.</p>
-        <p>Nach dem eigentlichen Baubeginn werden durch den Bausachverständigen <strong>einzelne Routinetermine</strong>, also Baustellentermine, wahrgenommen, die nach der Fertigstellung einzelner Bauabschnitte erfolgen Hierzu gehören z.B. Fertigstellung des Kellers inkl. Abdichtung, nach Rohbau und Dachstuhl oder vor dem Innenputz nach erfolgter Elektro- und Sanitärinstallation. Kurz gesagt alle Arbeiten, die durch eines der nachfolgenden Gewerke verdeckt werden, werden im Verlauf der Baubegleitung durch den Baugutachter in <strong>Augenschein genommen</strong>.</p>
+        <p> Ein Bausachverständiger sollte schon vor dem Unterzeichnen der Bauunterlagen hinzugezogen werden, um mögliche <strong>Planungsfehler zu vermeiden</strong>. Hierzu bieten wir in unserem Ersttermin die Prüfung der Unterlagen auf Plausibilität und Vollständigkeit und bieten eine Überprüfung der Bauunterlagen in fachtechnischer und qualitätstechnischer Hinsicht an. Zu einem vollständigen Ersttermin im Rahmen der qualitätssichernden Baubegleitung gehört auch die Besichtigung des Grundstücks.</p>
+        <p>Nach dem eigentlichen Baubeginn werden durch den Bausachverständigen <strong>einzelne Routinetermine</strong>, also Baustellentermine, wahrgenommen, die nach der Fertigstellung einzelner Bauabschnitte erfolgen, hierzu gehören z.B. Fertigstellung des Kellers inkl. Abdichtung, nach Rohbau und Dachstuhl oder vor dem Innenputz nach erfolgter Elektro- und Sanitärinstallation. Kurz gesagt, alle Arbeiten, die durch eines der nachfolgenden Gewerke verdeckt werden, werden im Verlauf der Baubegleitung durch den Baugutachter in <strong>Augenschein genommen</strong>.</p>
         <p>Am Ende der Bauphase steht die <strong>Bauabnahme</strong>. Dieser Abnahmetermin ist für den Bauherrn besonders wichtig, da zum einen meist die letzte Rate für die Bauleistung fällig wird, zum anderen sich die Beweislast umkehrt und die Verjährungsfrist beginnt.</p>
         <p>‍</p>
         <blockquote>&quot;Eine präzise Immobilienbewertung ist die solide Brücke zwischen Ihrem Eigentum und dessen wahrem Wert. Sie ebnet den Weg für einen fairen Verkauf, eine gerechte Besteuerung und ein unkompliziertes Erbe - sie ist der Schlüssel, um das volle Potenzial Ihrer Immobilie zu erschließen.&quot; </blockquote>
-        <p>Immobilienbewertung</p>
       </div>
       <div class="w-layout-grid grid-service-page">
         <div id="w-node-_2e19e198-f3de-3628-d31f-0c9184d0f60f-d9f271c9" class="layout-content">
@@ -161,29 +126,29 @@
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688b9-d9f271c9" class="layout-item">
               <div class="icon-wrapper"><img src="../images/GPS.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3>Schritt 1: </h3>
-                <div>With drones, businesses can easily conduct aerial surveys and create 3D maps of their inventory. This allows for more accurate tracking of stock levels, reducing the risk of overstocking or stockouts.</div>
+                <h3>Erstgespräch und Sichtung der Unterlagen: </h3>
+                <div>In einem ersten Kontakt werden Art und Umfang der Immobilienbewertung festgelegt und notwendige Unterlagen ausgetauscht</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c1-d9f271c9" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Vuc.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3>Schritt 2:</h3>
-                <div>Drones are increasingly being used to inspect infrastructure such as bridges, power lines, and pipelines. This is a safer and more efficient alternative to traditional methods, which often require workers to climb to dangerous heights or work in confined spaces.</div>
+                <h3>Gemeinsame Begehung:</h3>
+                <div>Gemeinsame Begehung der Immobilie zur Begutachtung des tatsächlichen baulichen und energetischen Zustandes.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688c9-d9f271c9" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Menegment.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3>Schritt 3:</h3>
-                <div>Drones are being used to deliver packages in areas that are difficult to reach by traditional methods. This includes remote areas, disaster zones, and even urban areas where traffic congestion is a problem.</div>
+                <h3>Nachbesprechung:</h3>
+                <div>Umfassende Nachbesprechung und Erläuterung der Begehung gewonnene Erkenntnisse und Relevanz für die Immobilienbewertung.</div>
               </div>
             </div>
             <div id="w-node-bef11c27-3e8e-cfe8-4daf-db22c13688d1-d9f271c9" class="layout-item">
               <div class="icon-wrapper"><img src="../images/Serving.svg" loading="lazy" width="59" alt="" class="icon-service-page"></div>
               <div>
-                <h3>Schritt 4: </h3>
-                <div>Drones are being used to improve security in a variety of settings. They can be used to patrol borders, monitor crowds, and even track wildlife in conservation areas.</div>
+                <h3>Gutachtenserstellung: </h3>
+                <div>Erstellung des Gutachtens mit einer umfassenden Dokumentation des Ist-Zustandes auf Grundlage der Objektbegehung und der Unterlagen.</div>
               </div>
             </div>
           </div>
